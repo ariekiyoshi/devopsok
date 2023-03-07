@@ -6,6 +6,9 @@ Langkah-langkah untuk mengkontainerisasi laravel cukup mudah:
      ```
      docker build -t laravel-app .
      ```
+     ```
+     docker tag <nama id>/<image id> devops/laravel-app:v1
+     ```
 3. Jika sudah berhasil ter-build, kita cek imagenya
      ```
      docker images
