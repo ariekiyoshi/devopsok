@@ -1,6 +1,7 @@
 # Sesi 5 - Inisialisasi Backing Service
 
 sebelum membangun infrastuktur persiapkan media sbb :
+
 a. local master (untuk test aplikasi di lokal kita dan membuat master image )
     install (apache2, php7.4, docker, docker-compose, composer)
 b. VM aws 1 (untuk instalasi docker mysql, mino, redis)
