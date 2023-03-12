@@ -37,5 +37,5 @@
      ```
      cek browser <IP :9000>/login
 4. Buat Load balancer dengan settingan berikut.
-    [source](https://raw.githubusercontent.com/agung3wi/panduan-kelasdevops/master/sesi%205/5.%20implementasi%load%20balancer/nginx.conf).
+    [source](https://raw.githubusercontent.com/ariekiyoshi/devopsok/master/sesi%205/5.%20implementasi%20load%20balancer/nginx.conf).
 
